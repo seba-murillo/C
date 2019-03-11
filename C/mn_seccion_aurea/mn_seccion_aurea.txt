@@ -1,0 +1,1 @@
+./build/mn_seccion_aurea.c.o

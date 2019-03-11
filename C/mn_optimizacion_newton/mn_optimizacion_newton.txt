@@ -1,0 +1,1 @@
+./build/optimizacion_newton.c.o
