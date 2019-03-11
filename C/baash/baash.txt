@@ -1,0 +1,1 @@
+./build/baash.c.o ./build/sebastr.c.o
