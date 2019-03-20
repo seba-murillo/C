@@ -1,1 +1,0 @@
-./build/mn_matriz_inversa.c.o

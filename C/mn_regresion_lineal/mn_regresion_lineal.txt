@@ -1,1 +1,0 @@
-./build/mn_regresion_lineal.c.o
